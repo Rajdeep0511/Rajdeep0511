@@ -3,7 +3,7 @@
 <!--
 **Rajdeep0511/Rajdeep0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi World! I am an aspiring Software Engineer pursuing Computer Science Engineering
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
